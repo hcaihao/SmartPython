@@ -1,0 +1,6 @@
+[setting]
+interval = 10
+timeout = 60
+ip_limit = 3
+dial_wait = 8
+is_dial = 0

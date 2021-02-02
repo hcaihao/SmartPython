@@ -47,4 +47,4 @@ print(line)
 ```
 
 # 功能演示
-![image](https://github.com/hcaihao/SmartPython/blob/main/snapshot.png)
+![image](https://github.com/hcaihao/SmartPython/blob/main/demo.gif)

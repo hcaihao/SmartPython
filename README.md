@@ -45,3 +45,6 @@ print("--IO测试--")
 line = input("请输入：")
 print(line)
 ```
+
+# 功能演示
+![image](https://github.com/hcaihao/SmartPython/blob/main/demo.gif)

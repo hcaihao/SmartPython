@@ -1,6 +1,7 @@
 # 项目简介 Introduction
 
-多年前做的小工具，放出来给有需要的人研究吧，可以作为目前很火的RPA编辑器的架构原型，技术交流6850825@qq.com。This is a small tool I made years ago that is now being released for those who need it to study. It can serve as an architectural prototype for the currently popular RPA editor, and for technical exchanges, please contact 6850825@qq.com.
+多年前做的小工具，放出来给有需要的人研究吧，可以作为目前很火的RPA编辑器的架构原型，技术交流6850825@qq.com。
+This is a small tool I made years ago that is now being released for those who need it to study. It can serve as an architectural prototype for the currently popular RPA editor, and for technical exchanges, please contact 6850825@qq.com.
 
 # 功能特性 Features
 

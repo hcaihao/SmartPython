@@ -12,6 +12,22 @@
 * 支持输入输出重定向
 * 支持直接编译生成Exe
 
+# Introduction
+
+This is a small tool I made years ago that is now being released for those who need it to study. It can serve as an architectural prototype for the currently popular RPA editor, and for technical exchanges, please contact 6850825@qq.com.
+
+# Features:
+
+* Supports code highlighting.
+* Supports single-step debugging.
+* Supports interrupting code execution.
+* Supports importing third-party Py libraries.
+* Supports importing custom modules.
+* Supports calling C extensions.
+* Supports calling functions.
+* Supports input and output redirection.
+* Supports direct compilation to generate Exe files.
+
 
 # 测试脚本
 ```
